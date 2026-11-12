@@ -1,6 +1,6 @@
 # F-cost Scrap Analytics
 
-**[▶ Open the live dashboard](https://napongphant.github.io/fcost-scrap-analytics/)**
+**[▶ Open the live dashboard](https://napongphant.github.io/fcost-scrap-analytics/)** (best viewed on a computer)
 
 An interactive scrap-cost dashboard I built for my job as a process engineer in a
 manufacturing plant. At work it replaced about **a day a week** of making Pareto
